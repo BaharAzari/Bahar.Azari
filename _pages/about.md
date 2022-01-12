@@ -17,8 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p style='text-align: justify;'> I am a Ph.D. candidate interested in the theory and application of machine learning. I am fascinated by the mathematical machinery behind machine learning models. My research has focused on designing predictive models using hierarchical probabilistic modeling, and deep generative modeling tools. In my designs, I use a variety of neural networks to model unknown dynamics in the data. My current line of research focuses on learning invariant and equivariant network architectures for data-efficient and generalizable models, with the goal of providing rational design principles for deep neural networks, and allowing for including domain knowledge in the form of symmetries of the model. Specifically, my research goal is to systematize the procedure of discovering the per-application symmetries in the data (e.g., translation, rotation) and exploiting it in designing novel neural network layers with shared parameters. To this end, I use powerful mathematical tools: group theory, representation theory, and Fourier analysis, to name a few.  </p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[\faTwitter](https://twitter.com/AzariBahar) 
