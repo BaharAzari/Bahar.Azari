@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.northeastern.edu/'>Northeastern University</a>. 360 Huntington Ave, Boston, MA, 02115. 
 
 profile:
   align: right
   image: profile.jpg
   address: >
     <p>PhD Candidate,</p>
-    <p>Machine learning and signal processing</p>
+    <p>Machine Learning and Data Science</p>
     <p>360 Huntington Ave</p>
     <p>Boston, MA 02115</p>
 
