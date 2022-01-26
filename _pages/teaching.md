@@ -6,6 +6,6 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<a href='https://ece.northeastern.edu/fac-ece/ioannidis/EECE5698.html'>Parallel Processing for Data Analytics</a>, Northeastern University, Spring 2019.
 
-Organize your courses by years, topics, or universities, however you like!
+<a href='https://www.coursicle.com/neu/courses/DS/5220/'>Supervised Machine Learning and Learning Theory</a>, Northeastern University, Fall 2021.
