@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses I was the teaching assistant for at Northeastern University.
+description: Courses for which I was the teaching assistant at Northeastern University.
 nav: true
 ---
 
