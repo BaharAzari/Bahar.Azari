@@ -8,7 +8,7 @@ profile:
   align: right
   image: profile.jpg
   address: >
-    <p>PhD Candidate</p>
+    <p>PhD Candidate, Machine Learning</p>
 
 
 
