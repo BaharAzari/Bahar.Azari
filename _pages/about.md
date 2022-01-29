@@ -8,8 +8,8 @@ profile:
   align: right
   image: profile.jpg
   address: >
-    <p>PhD Candidate,</p>
-    <p>Machine Learning and Data Science</p>
+    <p>PhD Candidate, Machine Learning</p>
+
 
 
 news: true  # includes a list of news items
