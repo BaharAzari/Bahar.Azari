@@ -1,6 +1,6 @@
 ---
 layout: page
-title: **EqDDM**
+title: EqDDM:
 description: An SO(3) equivariant deep dynamical model (EqDDM) for motion prediction.
 img: assets/img/pend.jpg
 importance: 1
