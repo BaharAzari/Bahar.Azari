@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate Machine Learning, Variational Inference, Equivariant Deep Architectures
+subtitle: PhD Candidate: Machine Learning, Variational Inference, Equivariant Deep Architectures
 
 profile:
   align: right
