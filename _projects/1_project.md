@@ -1,10 +1,13 @@
 ---
 layout: page
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: EqDDM
 description: Equivariant Deep Dynamical Model for Motion Prediction
 img: assets/img/pend
 =======
+=======
+>>>>>>> parent of fa0a6da (Update 1_project.md)
 title: Equivariant Deep Dynamical Model for Motion Prediction
 description: An SO(3) equivariant deep dynamical model (EqDDM) for motion prediction that learns a structured representation of the input space in the sense that the embedding varies with symmetry transformations.
 img: assets/img/pend.jpg
