@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Equivariant Deep Dynamical Model for Motion Prediction
-description: An SO(3) equivariant deep dynamical model (EqDDM) for motion prediction that learns a structured representation of the input space in the sense that the embedding varies with symmetry transformations.
+title: EqDDM
+description: An SO(3) equivariant deep dynamical model (EqDDM) for motion prediction.
 img: assets/img/pend.jpg
 importance: 1
 category: work
