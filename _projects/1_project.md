@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: EqDDM
 description: Equivariant Deep Dynamical Model for Motion Prediction
-img: assets/img/pen
+img: assets/img/pend
 importance: 1
 category: work
 ---
