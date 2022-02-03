@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in the area of Machine Learning
+subtitle: PhD Candidate: Machine Learning, Variational Inference, Equivariant Deep Architectures
 
 profile:
   align: right
   image: profile.jpg
   address: >
-    <p><a href='https://www.northeastern.edu/isec/'>Northeastern University Interdisciplinary Science & Engineering Complex</a> </p>
+    <p><a href='https://www.northeastern.edu/isec/'>Northeastern University, ISEC</a> </p>
     <p>805 Columbus Ave, Boston, MA 02120 </p>
 
 
