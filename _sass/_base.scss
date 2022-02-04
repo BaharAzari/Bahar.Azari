@@ -381,6 +381,8 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
+  display :flex;
+    flex-direction: column-reverse;
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
