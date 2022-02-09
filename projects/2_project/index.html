@@ -10,10 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Bahar  Azari | blog</title>
+    <title>Bahar  Azari | CCL</title>
     <meta name="author" content="Bahar  Azari" />
-    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-" />
+    <meta name="description" content="Circular-Symmetric Correlation Layer." />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -32,7 +31,7 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📝</text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://baharazari.github.io/blog/">
+    <link rel="canonical" href="https://baharazari.github.io/projects/2_project/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
@@ -92,21 +91,41 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- page.html -->
+        <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+          <header class="post-header">
+            <h1 class="post-title">CCL</h1>
+            <p class="post-description">Circular-Symmetric Correlation Layer.</p>
+          </header>
 
+          <article>
+            <p>Despite the vast success of standard planar convolutional neural networks, they are not the most efficient choice for analyzing signals that lie on an arbitrarily curved manifold, such as a cylinder. The problem arises when one performs a planar projection of these signals and inevitably causes them to be distorted or broken where there is valuable information. We propose a Circular-symmetric Correlation Layer (CCL) based on the formalism of roto-translation equivariant correlation on the continuous group $S^1 \times \mathbb{R}$, and implement it efficiently using the well-known Fast Fourier Transform (FFT) algorithm. We showcase the performance analysis of a general network equipped with CCL on various recognition and classification tasks and datasets.</p>
 
-  <ul class="post-list">
-    
-  </ul>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
 
-  
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/changedetec-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/changedetec-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/changedetec-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/changedetec.jpg" title="">
+  </picture>
 
+</figure>
+
+    </div>
 </div>
+<div class="caption">
+    Probabilistic graphical model of equivariant deep state space model.
+</div>
+
+
+          </article>
+
+        </div>
 
     </div>
 

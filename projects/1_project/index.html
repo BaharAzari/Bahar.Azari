@@ -10,10 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Bahar  Azari | blog</title>
+    <title>Bahar  Azari | EqDDM</title>
     <meta name="author" content="Bahar  Azari" />
-    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-" />
+    <meta name="description" content="Equivariant Deep Dynamical Model for Motion Prediction." />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -32,7 +31,7 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📝</text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://baharazari.github.io/blog/">
+    <link rel="canonical" href="https://baharazari.github.io/projects/1_project/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
@@ -92,21 +91,41 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- page.html -->
+        <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+          <header class="post-header">
+            <h1 class="post-title">EqDDM</h1>
+            <p class="post-description">Equivariant Deep Dynamical Model for Motion Prediction.</p>
+          </header>
 
+          <article>
+            <p>Learning representations through deep generative modeling is a powerful approach for dynamical modeling to discover the most simplified and compressed underlying description of the data, to then use it for other tasks such as prediction. Most learning tasks have intrinsic symmetries, i.e., the input transformations leave the output unchanged, or the output undergoes a similar transformation. The learning process is, however, usually uninformed of these symmetries. Therefore, the learned representations for individually transformed inputs may not be meaningfully related. In this paper, we propose an SO(3) equivariant deep dynamical model (EqDDM) for motion prediction that learns a structured representation of the input space in the sense that the embedding varies with symmetry transformations. EqDDM is equipped with equivariant networks to parameterize the state-space emission and transition models. We demonstrate the superior predictive performance of the proposed model on various motion data.</p>
 
-  <ul class="post-list">
-    
-  </ul>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
 
-  
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pgm-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/pgm-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/pgm-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pgm.jpg" title="">
+  </picture>
 
+</figure>
+
+    </div>
 </div>
+<div class="caption">
+    Probabilistic graphical model of equivariant deep state space model.
+</div>
+
+
+          </article>
+
+        </div>
 
     </div>
 
